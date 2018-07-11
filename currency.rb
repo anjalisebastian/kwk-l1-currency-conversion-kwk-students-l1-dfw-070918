@@ -1,11 +1,13 @@
 # Write your cod here
 def usd_to_eur(amount)
   new_curerency = amount * 0.86
+  
   usd_to_eur(1.20)
 end
 
 def eur_to_usd(amount)
   new_currency = amount * 1.16
+  
   eur_to_usd(1)
 end
 
