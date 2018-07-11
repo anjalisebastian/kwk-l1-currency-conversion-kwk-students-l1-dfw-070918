@@ -6,6 +6,7 @@ end
 
 def eur_to_usd(amount)
   new_currency = amount * 1.16
+  eur_to_usd(1)
 end
 
 def usd_to_jpy(amount)
